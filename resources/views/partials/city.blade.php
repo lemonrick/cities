@@ -28,7 +28,7 @@
         </div>
         <div class="col-12 col-md-6 d-flex justify-content-center align-items-center text-center p-4">
             <div>
-                <img alt="Erb" class="logo-ui" src="{{ asset('imgs/'.$city->image) }}" onerror="this.src='{{ asset('img/134.png') }}';">
+                <img alt="Erb" class="logo-ui" src="{{ asset('imgs/'.$city->image) }}" onerror="this.src='{{ asset('img/spare.png') }}';">
                 <h2 class="pt-2 footer-text-blue text-center">{{ $city->name }}</h2>
             </div>
         </div>
