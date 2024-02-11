@@ -38,6 +38,8 @@
     ddev artisan migrate
 ```
 
+<br>
+
 ```bash
     ddev artisan data:import
 ```
